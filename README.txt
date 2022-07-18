@@ -13,4 +13,5 @@ Przy podaniu kwoty w postaci Tekstu - wystąpi bląd.
 Póżnej z listy proponowanych walut obieramy tą, ktorą potrzebujemy.
 Nacziskamy przycisk "Oblicz kwotę".
 Program wyswietla kwotę oblicząną z EURO w obranej walucie.
+Można obliczać różne walute kilka razy.
 Zamykamy okno.
