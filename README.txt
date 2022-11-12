@@ -1,5 +1,5 @@
-# zadanie_programistyczne
-Poniżej znajduje sie rozwiązanie mojego zadania Kalkulator walut.
+
+Poniżej znajduje opis programu Kalkulator walut.
 
 Żeby uruchomić program: 
 
